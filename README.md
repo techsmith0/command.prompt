@@ -1,6 +1,6 @@
 # Command Prompt
 
-[![Command Prompt](get-startted.png)](https://computersolve.com/command-prompt/)
+[![Command Prompt](get-startted.png)](https://icncomputer.com/command-prompt/)
 
 This article explains how to open Command Prompt, which is one of the command-line interface programs used to execute commands in Windows operating systems. While it probably isn't a tool most of you will use on a regular basis, Command Prompt can really come in handy now and then, maybe to troubleshoot a specific Windows problem or to automate some kind of task.
 
